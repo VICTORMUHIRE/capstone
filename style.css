@@ -129,7 +129,7 @@ body {
             font-family: 'cocogoose';
             line-height: 70px;
             margin-top: 2rem;
-            background-image: url("../images/font.jpg");
+            background-image: url("./images/font.jpg");
             background-size: cover;
             background-position: center center;
             background-clip: initial;
