@@ -18,7 +18,7 @@
 
 body {
     width: 100%;
-    background-image: url("/images/header.png");
+    background-image: url("./images/header.png");
     
 }
 
@@ -129,7 +129,7 @@ body {
             font-family: 'cocogoose';
             line-height: 70px;
             margin-top: 2rem;
-            background-image: url("./images/font.jpg");
+            background-image: url("../images/font.jpg");
             background-size: cover;
             background-position: center center;
             background-clip: initial;
@@ -154,7 +154,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("/images/main-program-bg.png");
+    background-image: url("./images/main-program-bg.png");
     background-color: var(--text-color);
     padding: 3rem 0;
     gap: 3rem;
@@ -240,7 +240,7 @@ body {
             .img {
                 min-width: 35%;
                 max-width: 35%;
-                background-image: url("/images/chess-bg.png");
+                background-image: url("./images/chess-bg.png");
                 background-repeat: no-repeat;
                 background-size: 25%;
                 padding: 0.625rem;
@@ -448,7 +448,7 @@ body {
             align-items: center;
             justify-content: center;
             gap: 2rem;            
-            background-image: url('/images/font.jpg');
+            background-image: url('./images/font.jpg');
             p{
                 color: white;
                 font-family: "cocogoose";
